@@ -1,2 +1,12 @@
 # Codecademy_Programming_with_Python
-Uploading course information 
+Murder Mystery Project in Codecademy intensive course: Programming with Python (Jul 31, 2018 - Oct 16, 2018)
+
+In this project we were tasked with building a new application for literature review. We had to make use of what we have learned through all of the course. Such as:
+
+Data types
+Architecture
+Classes
+Inheritance
+Control flow
+
+
