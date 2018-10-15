@@ -3,10 +3,9 @@ Murder Mystery Project in Codecademy intensive course: Programming with Python (
 
 In this project we were tasked with building a new application for literature review. We had to make use of what we have learned through all of the course. Such as:
 
-Data types
-Architecture
-Classes
-Inheritance
-Control flow
-
-
+  <li>Data types</li>
+  <li>Architecture</li>
+  <li>Classes</li>
+  <li>Inheritance</li>
+  <li>Control flow</li>
+  
