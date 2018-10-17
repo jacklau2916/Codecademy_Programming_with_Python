@@ -8,4 +8,12 @@ In this project we were tasked with building a new application for literature re
   <li>Inheritance</li>
   <li>Control flow</li><br>
   
-The final project can be found in: Murder+Mystery.ipynb
+The final project can be found in: Murder+Mystery.ipynb<br>
+
+  <iframe
+    src="https://www.credential.net/embed/0816jegj"
+    width="800"
+    height="600"
+    frameborder="0"
+    allowfullscreen>
+  </iframe>
